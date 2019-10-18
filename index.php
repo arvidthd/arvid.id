@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>Moscow - Personal Portfolio</title>
+    <title>Arvid Theodorus - Personal Portfolio</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700,900" rel="stylesheet">
 
@@ -39,12 +39,13 @@
                         <div class="title-heading">
                             <div class="selector uppercase" id="selector">
                                 <h3 class="ah-headline p-none m-none">
-                                    <span class="font-weight-400">Hi There ! I'm</span>
-									<span class="my-name">Linda Smith</span>
+                                    <span class="font-weight-400">Hello There ! I'm</span>
+									<span class="my-name">Arvid</span>
                                     <span class="ah-words-wrapper">
-										<b class="is-visible">web designer</b>
-										<b>developer</b>
-										<b>blogger</b>
+										<b class="is-visible">Web Developer</b>
+										<b>Software Developer</b>
+										<b>System Analyst</b>
+                                        <b>Solution Architect</b>
 									</span>
                                 </h3>
                             </div>
@@ -93,35 +94,33 @@
                             <div class="col s12 m8 l12 xl12 personal-info section-padding">
                                 <h6 class="uppercase"><i class="fa fa-user"></i> Personal Info</h6>
 								<div class="col m12 l12 xl9 p-none">
-									<p class="second-font">I'm a Freelance Web Designer & Developer based in Moscow, Russia.<br>
-									I have serious passion for UI effects, animations and creating intuitive,
-									with over a decade of experience.
+									<p class="second-font">I'm a Software Engineer with total 4 Years+ of experience in developing websites and systems. Sometimes also designed solutions for complex software architecture with various capabilites.
 									</p>
 								</div>
                                 <div class="col s12 m12 l6 p-none">
                                     <ul class="second-font list-1">
-                                        <li><span class="font-weight-700">First Name: </span>Linda</li>
-                                        <li><span class="font-weight-700">Last Name: </span>Smith</li>
-                                        <li><span class="font-weight-700">Date of birth: </span>21 june 1990 </li>
-                                        <li><span class="font-weight-700">Nationality: </span>Russian</li>
+                                        <li><span class="font-weight-700">First Name: </span>Arvid</li>
+                                        <li><span class="font-weight-700">Last Name: </span>Theodorus</li>
+                                        <li><span class="font-weight-700">Date of birth: </span>1 September 1990 </li>
+                                        <li><span class="font-weight-700">Nationality: </span>Indonesia</li>
 										<li><span class="font-weight-700">Freelance: </span>Available</li>
                                     </ul>
                                 </div>
                                 <div class="col s12 m12 l6 p-none">
                                     <ul class="second-font list-2">
-                                        <li><span class="font-weight-700">Phone: </span>+34 21 18 40 10</li>
-                                        <li><span class="font-weight-700">Address: </span>Moscow, Russia</li>
-                                        <li><span class="font-weight-700">Email: </span>you@yourwebsite.com</li>
-                                        <li><span class="font-weight-700">Spoken Langages: </span>French - German</li>
-										<li><span class="font-weight-700">Skype: </span>linda.smith</li>
+                                        <li><span class="font-weight-700">Phone: </span>(+62) 082226242888</li>
+                                        <li><span class="font-weight-700">Address: </span>Jakarta, Indonesia</li>
+                                        <li><span class="font-weight-700">Email: </span>arvid.thd@gmail.com</li>
+                                        <li><span class="font-weight-700">Spoken Languages: </span>Bahasa - English - Hakka</li>
+                                        <li><span class="font-weight-700">Telegram: </span>@arvid_theodorus</li>
                                     </ul>
                                 </div>
                                 <a href="#" class="btn font-weight-700">
 									Download Resume <i class="fa fa-file-pdf-o"></i>
 								</a>
-								<a href="blog-dark.html" class="btn btn-blog font-weight-700">
+								<!-- <a href="blog-dark.html" class="btn btn-blog font-weight-700">
 									My Blog <i class="fa fa-edit"></i>
-								</a>
+								</a> -->
                             </div>
                         </div>
 						<!-- Personal Informations Ends -->
@@ -397,78 +396,8 @@
                         </div>
                         <!-- Divider Ends -->
                         <div class="row center-align da-thumbs" id="bl-work-items">
-                            <!-- Project Starts -->
-                            <div class="col s12 m6 l6 xl4" data-panel="panel-1">
-                                <a href="#">
-									<img class="responsive-img" src="http://via.placeholder.com/535x400" alt="Project" />
-									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Image Project</span></div>
-								</a>
-                            </div>
-                            <!-- Project Ends -->
-                            <!-- Project Starts -->
-                            <div class="col s12 m6 l6 xl4" data-panel="panel-2">
-                                <a href="#">
-									<img class="responsive-img" src="http://via.placeholder.com/535x400" alt="Project" />
-									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Slider Project</span></div>
-								</a>
-                            </div>
-                            <!-- Project Ends -->
-                            <!-- Project Starts -->
-                            <div class="col s12 m6 l6 xl4" data-panel="panel-3">
-                                <a href="#">
-									<img class="responsive-img" src="http://via.placeholder.com/535x400" alt="Project" />
-									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Youtube Video</span></div>
-								</a>
-                            </div>
-                            <!-- Project Ends -->
-                            <!-- Project Starts -->
-                            <div class="col s12 m6 l6 xl4" data-panel="panel-4">
-                                <a href="#">
-									<img class="responsive-img" src="http://via.placeholder.com/535x400" alt="Project" />
-									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Local Video</span></div>
-								</a>
-                            </div>
-                            <!-- Project Ends -->
-                            <!-- Project Starts -->
-                            <div class="col s12 m6 l6 xl4" data-panel="panel-5">
-                                <a href="#">
-									<img class="responsive-img" src="http://via.placeholder.com/535x400" alt="Project" />
-									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Image Project</span></div>
-								</a>
-                            </div>
-                            <!-- Project Ends -->
-                            <!-- Project Starts -->
-                            <div class="col s12 m6 l6 xl4" data-panel="panel-6">
-                                <a href="#">
-									<img class="responsive-img" src="http://via.placeholder.com/535x400" alt="Project" />
-									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Image Project</span></div>
-								</a>
-                            </div>
-                            <!-- Project Ends -->
-                            <!-- Project Starts -->
-                            <div class="col s12 m6 l6 xl4" data-panel="panel-7">
-                                <a href="#">
-									<img class="responsive-img" src="http://via.placeholder.com/535x400" alt="Project" />
-									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Image Project</span></div>
-								</a>
-                            </div>
-                            <!-- Project Ends -->
-                            <!-- Project Starts -->
-                            <div class="col s12 m6 l6 xl4" data-panel="panel-8">
-                                <a href="#">
-									<img class="responsive-img" src="http://via.placeholder.com/535x400" alt="Project" />
-									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Image Project</span></div>
-								</a>
-                            </div>
-                            <!-- Project Ends -->
-							<!-- Project Starts -->
-                            <div class="col s12 m6 l6 xl4" data-panel="panel-9">
-                                <a href="#">
-									<img class="responsive-img" src="http://via.placeholder.com/535x400" alt="Project" />
-									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Image Project</span></div>
-								</a>
-                            </div>
-                            <!-- Project Ends -->
+                        <span>Coming Soon!</span>
+
                         </div>
                     </div>
                 </div>
@@ -511,22 +440,22 @@
                             <div class="col s12 m5 l5 xl4 leftside">
 								<!-- Contacts Starts -->
                                 <h6 class="font-weight-700 uppercase">Phone</h6>
-                                <span class="font-weight-400 second-font"><i class="fa fa-phone"></i> +34 62 11 84 01</span>
+                                <span class="font-weight-400 second-font"><i class="fa fa-phone"></i>(+62) 082226242888</span>
 								<h6 class="font-weight-700 uppercase">Email</h6>
-								<span class="font-weight-400 second-font"><i class="fa fa-envelope"></i> you@youwebsite.com</span>
-								<h6 class="font-weight-700 uppercase">Skype</h6>
-								<span class="font-weight-400 second-font"><i class="fa fa-skype"></i> linda.smith</span>
+								<span class="font-weight-400 second-font"><i class="fa fa-envelope"></i>arvid.thd@gmail.com</span>
+								<h6 class="font-weight-700 uppercase">Telegram</h6>
+								<span class="font-weight-400 second-font"><i class="fa fa-telegram"></i>arvid_theodorus</span>
 								<h6 class="font-weight-700 uppercase">Address</h6>
-								<span class="font-weight-400 second-font"><i class="fa fa-home"></i>  Moscow, Russia</span><br>
+								<span class="font-weight-400 second-font"><i class="fa fa-home"></i>Jakarta, Indonesia</span><br>
 								<!-- Contacts Ends -->
 								<!-- Social Media Profiles Starts -->
                                 <h6 class="font-weight-700 uppercase">Social Profiles</h6>
                                 <div class="social">
                                     <ul class="list-inline social social-intro center-align p-none">
-                                        <li class="facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li class="twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                        <li class="google-plus"><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                                        <li class="linkedin"><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li class="linkedin"><a href="https://www.linkedin.com/in/arvid-theodorus-491420117/"><i class="fa fa-linkedin"></i></a></li>
+                                        <li class="facebook"><a href="https://www.facebook.com/arvid.theodorus"><i class="fa fa-facebook"></i></a></li>
+                                        <li class="twitter"><a href="https://twitter.com/vidovido"><i class="fa fa-twitter"></i></a></li>
+                                        <li class="instagram"><a href="https://www.instagram.com/vidovido/"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
 								<!-- Social Media Profiles Ends -->
