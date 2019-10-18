@@ -88,7 +88,7 @@
                         <div class="row">
 							<!-- Picture Starts -->
                             <div class="col s12 m4 profile-picture show-on-medium-and-down section-padding">
-								<img src="http://via.placeholder.com/594x1032" class="responsive-img my-picture" alt="My Photo">
+								<img src="#" class="responsive-img my-picture" alt="My Photo">
                             </div>
 							<!-- Picture Ends -->
                             <div class="col s12 m8 l12 xl12 personal-info section-padding">
@@ -518,7 +518,7 @@
                     <div class="row">
                         <!-- Project Main Content Starts -->
                         <div class="col s12 l6 xl6 section-padding section-padding-right-none">
-                            <img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" />
+                            <img class="responsive-img" src="#" alt="project" />
                         </div>
                         <!-- Project Main Content Ends -->
                         <!-- Project Details Starts -->
@@ -543,10 +543,10 @@
                         <!-- Project Main Content Starts -->
                         <div class="col s12 l6 xl6 section-padding section-padding-right-none">
                             <div class="carousel carousel-slider">
-                                <a class="carousel-item" href="#one!"><img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" ></a>
-                                <a class="carousel-item" href="#two!"><img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" ></a>
-                                <a class="carousel-item" href="#three!"><img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" ></a>
-                                <a class="carousel-item" href="#four!"><img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" ></a>
+                                <a class="carousel-item" href="#one!"><img class="responsive-img" src="#" alt="project" ></a>
+                                <a class="carousel-item" href="#two!"><img class="responsive-img" src="#" alt="project" ></a>
+                                <a class="carousel-item" href="#three!"><img class="responsive-img" src="#" alt="project" ></a>
+                                <a class="carousel-item" href="#four!"><img class="responsive-img" src="#" alt="project" ></a>
                             </div>
                         </div>
                         <!-- Project Main Content Ends -->
@@ -597,7 +597,7 @@
                     <div class="row">
                         <!-- Project Main Content Starts -->
                         <div class="col s12 l6 xl6 section-padding section-padding-right-none">
-                            <video id="video" class="responsive-video" controls poster="http://via.placeholder.com/561x315">
+                            <video id="video" class="responsive-video" controls poster="#">
 								<source src="images/projects/video/video.mp4" type="video/mp4">
 							</video>
                         </div>
@@ -623,7 +623,7 @@
                     <div class="row">
                         <!-- Project Main Content Starts -->
                         <div class="col s12 l6 xl6 section-padding section-padding-right-none">
-                            <img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" />
+                            <img class="responsive-img" src="#" alt="project" />
                         </div>
                         <!-- Project Main Content Ends -->
                         <!-- Project Details Starts -->
@@ -647,7 +647,7 @@
                     <div class="row">
                         <!-- Project Main Content Starts -->
                         <div class="col s12 l6 xl6 section-padding section-padding-right-none">
-                            <img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" />
+                            <img class="responsive-img" src="#" alt="project" />
                         </div>
                         <!-- Project Main Content Ends -->
                         <!-- Project Details Starts -->
@@ -671,7 +671,7 @@
                     <div class="row">
                         <!-- Project Main Content Starts -->
                         <div class="col s12 l6 xl6 section-padding section-padding-right-none">
-                            <img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" />
+                            <img class="responsive-img" src="#" alt="project" />
                         </div>
                         <!-- Project Main Content Ends -->
                         <!-- Project Details Starts -->
@@ -695,7 +695,7 @@
                     <div class="row">
                         <!-- Project Main Content Starts -->
                         <div class="col s12 l6 xl6 section-padding section-padding-right-none">
-                            <img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" />
+                            <img class="responsive-img" src="#" alt="project" />
                         </div>
                         <!-- Project Main Content Ends -->
                         <!-- Project Details Starts -->
@@ -719,7 +719,7 @@
                     <div class="row">
                         <!-- Project Main Content Starts -->
                         <div class="col s12 l6 xl6 section-padding section-padding-right-none">
-                            <img class="responsive-img" src="http://via.placeholder.com/535x400" alt="project" />
+                            <img class="responsive-img" src="#" alt="project" />
                         </div>
                         <!-- Project Main Content Ends -->
                         <!-- Project Details Starts -->
