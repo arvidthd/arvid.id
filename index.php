@@ -115,7 +115,7 @@
                                         <li><span class="font-weight-700">Telegram: </span>@arvid_theodorus</li>
                                     </ul>
                                 </div>
-                                <a href="#" class="btn font-weight-700">
+                                <a href="/files/CV_Arvid Theodorus.pdf" class="btn font-weight-700" download>
 									Download Resume <i class="fa fa-file-pdf-o"></i>
 								</a>
 								<!-- <a href="blog-dark.html" class="btn btn-blog font-weight-700">
@@ -163,25 +163,33 @@
                                                 <div class="resume-card-body-container second-font">
 													<!-- Single Experience Starts -->
                                                     <div class="resume-content">
-														<h6 class="uppercase"><span>Web Designer - </span>Envato</h6>
-														<span class="date"><i class="fa fa-calendar-o"></i> 2015 - 2018</span>
-														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper</p>
+                                                        <h6 class="uppercase" style="font-size:small;"><span>Software Engineer Manager - </span>PT. Solusi Pembayaran Elektronik (SPE)</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i> Apr 2018 - Apr 2019</span>
+														<p>Manage 30+ software engineers consist of web, android and IOS developer. Define KPI, optimized database and REST API performance for production web services. Responsible for maintaining day to day configuration, repository management and resource utilization. Lead developer of QR Payment Application Yap! for PT. BNI with Debit and Credit Card source of fund also Mobile Application BERSAMA for ArtaJasa’s emoney source of fund MYNT.</p>
                                                     </div>
 													<!-- Single Experience Ends -->
                                                     <span class="separator"></span>
 													<!-- Single Experience Starts -->
                                                     <div class="resume-content">
-														<h6 class="uppercase"><span>Web Developer - </span>Google</h6>
-														<span class="date"><i class="fa fa-calendar-o"></i> 2011 - 2015</span>
-														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper</p>
+														<h6 class="uppercase" style="font-size:small;"><span>Software Engineer Supervisor - </span>PT. Solusi Pembayaran Elektronik (SPE)</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i> Apr 2017 - Apr 2018</span>
+														<p>
+                                                            Manage 4 developers in Jakarta and 10 developers remotely in Yogyakarta. Develop application for Virtual Account management for <b>PT. Dirgantara Indonesia (PTDI) - Aerospace</b>. Create & design the whole system for Virtual Account creation, payment notification (from unpaid, paid to settled) and dashboard for payment monitoring and alert management also create utility tool for excel bulk upload. <br/>
+                                                            Lead developer <b>YAP! for PT. BNI</b>, a push payment system with Debit Card, Credit Card and Emoney (Uniqku) source of fund. Developing database, main flow, source of funds integration and implementation for hub. server on bank-side, managing developers contains of backend, mobile android, mobile iOS and frontend.
+                                                        </p>
                                                     </div>
-													<!-- Single Experience Ends -->
-                                                    <span class="separator"></span>
-													<!-- Single Experience Starts -->
+													<span class="separator"></span>
                                                     <div class="resume-content">
-														<h6 class="uppercase"><span>Community Manager - </span>Adobe</h6>
-														<span class="date"><i class="fa fa-calendar-o"></i> 2007 - 2011</span>
-														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper</p>
+														<h6 class="uppercase"><span>Software Engineer - </span>PT. Docotel Teknologi</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i> Apr 2016 - Apr 2017</span>
+														<p>
+                                                            Developing software for BPPT (Badan Pengkajian dan Penerapan Teknologi). Some of the features that i developed :
+                                                            Ticketing system for device registration
+                                                            Business flow for device testing and payment
+                                                            Business flow for multiple layer confirmation and layers of role for device testing
+                                                            Device calibration result index page with customized parameter
+                                                            Email automation and payment notification for registran
+                                                            Developing software for KanWil (Kantor Wilayah) and PAGU allocation for AHU (Administrasi Hukum Umum).</p>
                                                     </div>
 													<!-- Single Experience Ends -->
                                                 </div>
@@ -200,27 +208,18 @@
                                                 <div class="resume-card-body-container second-font">
 													<!-- Single Education Starts -->
                                                     <div class="resume-content">
-														<h6 class="uppercase"><span>Engineering Diploma - </span>Oxford University</h6>
-														<span class="date"><i class="fa fa-calendar-o"></i> 2015 - 2018</span>
-														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper</p>
+														<h6 class="uppercase"><span>Master Degree - </span>Atma Jaya University, Yogyakarta</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i> Graduate on Feb 2016</span>
+														<p>Master degree of technical engineering (M.T. or Master of Technic)</p>
                                                     </div>
 													<!-- Single Education Ends -->
                                                     <span class="separator"></span>
 													<!-- Single Education Starts -->
                                                     <div class="resume-content">
-														<h6 class="uppercase"><span>Masters Degree - </span>Paris University</h6>
-														<span class="date"><i class="fa fa-calendar-o"></i> 2011 - 2015</span>
-														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper</p>
+														<h6 class="uppercase"><span>Bachelor Degree - </span>UKDW</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i> Graduate on June 2012</span>
+														<p><b>Cumlaude</b> and granted second best graduate</p>
                                                     </div>
-													<!-- Single Education Ends -->
-                                                    <span class="separator"></span>
-													<!-- Single Education Starts -->
-                                                    <div class="resume-content">
-														<h6 class="uppercase"><span>Bachelor Degree - </span>Berlin Higher Institute</h6>
-														<span class="date"><i class="fa fa-calendar-o"></i> 2007 - 2011</span>
-														<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus pretium orci sit amet mi ullamcorper</p>
-                                                    </div>
-													<!-- Single Education Ends -->
                                                 </div>
                                             </div>
                                         </div>
@@ -239,38 +238,74 @@
                                                         <div class="col s6">
 															<!-- Single Skills Starts -->
                                                             <div class="resume-content">
-																<h6 class="uppercase">html</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></p>
+																<h6 class="uppercase">HTML</h6>
+																<p>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                </p>
                                                             </div>
 															<!-- Single Skills Ends -->
 															<!-- Single Skills Starts -->
                                                             <div class="resume-content">
-																<h6 class="uppercase">javascript</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-half-empty"></i></p>
+																<h6 class="uppercase">JavaScript</h6>
+																<p>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star-o"></i>
+                                                                </p>
                                                             </div>
 															<!-- Single Skills Ends -->
 															<!-- Single Skills Starts -->
                                                             <div class="resume-content">
-																<h6 class="uppercase">css</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-half-empty"></i></p>
+																<h6 class="uppercase">JQuery</h6>
+																<p>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star-o"></i>
+                                                                </p>
+                                                            </div>
+															<!-- Single Skills Ends -->
+															<!-- Single Skills Starts -->
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h6 class="uppercase">CSS</h6>
+																<p>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star-half-empty"></i>
+                                                                </p>
                                                             </div>
 															<!-- Single Skills Ends -->
 															<!-- Single Skills Starts -->
                                                             <div class="resume-content">
-																<h6 class="uppercase">php</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></p>
+																<h6 class="uppercase">PHP</h6>
+																<p>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                </p>
                                                             </div>
 															<!-- Single Skills Ends -->
-															<!-- Single Skills Starts -->
                                                             <div class="resume-content">
-																<h6 class="uppercase">jquery</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></p>
-                                                            </div>
-															<!-- Single Skills Ends -->
-															<!-- Single Skills Starts -->
-                                                            <div class="resume-content">
-																<h6 class="uppercase">angular js</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i></p>
+																<h6 class="uppercase">ISO8583</h6>
+																<p>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                </p>
                                                             </div>
 															<!-- Single Skills Ends -->
                                                         </div>
@@ -279,40 +314,29 @@
                                                         <div class="col s6">
 															<!-- Single Skills Starts -->
                                                             <div class="resume-content">
-																<h6 class="uppercase">wordpress</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-half-empty"></i></p>
+																<h6 class="uppercase">JAVA (Native / Spring)</h6>
+																<p>
+                                                                    <i class="fa fa-star"></i> 
+                                                                    <i class="fa fa-star"></i> 
+                                                                    <i class="fa fa-star"></i> 
+                                                                    <i class="fa fa-star"></i> 
+                                                                    <i class="fa fa-star-half-empty"></i>
+                                                                </p>
                                                             </div>
 															<!-- Single Skills Ends -->
 															<!-- Single Skills Starts -->
                                                             <div class="resume-content">
-																<h6 class="uppercase">joomla</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-half-empty"></i> <i class="fa fa-star-o"></i></p>
+																<h6 class="uppercase">Docker & Orcherstration</h6>
+																<p>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i>
+                                                                    <i class="fa fa-star"></i> 
+                                                                    <i class="fa fa-star"></i> 
+                                                                    <i class="fa fa-star-o"></i>
+                                                                </p>
                                                             </div>
 															<!-- Single Skills Ends -->
-															<!-- Single Skills Starts -->
-                                                            <div class="resume-content">
-																<h6 class="uppercase">magento</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i></p>
-                                                            </div>
-															<!-- Single Skills Ends -->
-															<!-- Single Skills Starts -->
-                                                            <div class="resume-content">
-																<h6 class="uppercase">drupal</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></p>
-                                                            </div>
-															<!-- Single Skills Ends -->
-															<!-- Single Skills Starts -->
-                                                            <div class="resume-content">
-																<h6 class="uppercase">Adobe Photoshop</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i></p>
-                                                            </div>
-															<!-- Single Skills Ends -->
-															<!-- Single Skills Starts -->
-                                                            <div class="resume-content">
-																<h6 class="uppercase">Adobe illustrator</h6>
-																<p><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-half-empty"></i> <i class="fa fa-star-o"></i></p>
-                                                            </div>
-															<!-- Single Skills Ends -->
+															
                                                         </div>
 														<!-- Skills Row Ends -->
                                                     </div>
@@ -452,10 +476,10 @@
                                 <h6 class="font-weight-700 uppercase">Social Profiles</h6>
                                 <div class="social">
                                     <ul class="list-inline social social-intro center-align p-none">
-                                        <li class="linkedin"><a href="https://www.linkedin.com/in/arvid-theodorus-491420117/"><i class="fa fa-linkedin"></i></a></li>
-                                        <li class="facebook"><a href="https://www.facebook.com/arvid.theodorus"><i class="fa fa-facebook"></i></a></li>
-                                        <li class="twitter"><a href="https://twitter.com/vidovido"><i class="fa fa-twitter"></i></a></li>
-                                        <li class="instagram"><a href="https://www.instagram.com/vidovido/"><i class="fa fa-instagram"></i></a></li>
+                                        <li class="linkedin"><a href="https://www.linkedin.com/in/arvid-theodorus-491420117/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                        <li class="facebook"><a href="https://www.facebook.com/arvid.theodorus" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        <li class="twitter"><a href="https://twitter.com/vidovido" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li class="instagram"><a href="https://www.instagram.com/vidovido/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
 								<!-- Social Media Profiles Ends -->
